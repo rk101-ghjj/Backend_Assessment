@@ -1,0 +1,31 @@
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+
+# Logs
+npm-debug.log*
+*debug.log*
+*.log
+
+# Env
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+coverage/
+tmp/
+.cache/
+
+# Project subfolder (api)
+api/node_modules/
+api/dist/
+api/coverage/
+
+# Misc
+.turbo/
+.vercel/
+.pnpm-store/
